@@ -1,7 +1,7 @@
 # Time: O(n) for slicing and concat
 # Space: O(n) for sliced nums
 # Leetcode: Yes
-# Issues: Deepy copy on nums and extends.
+# Issues: Deep copy on nums and extends.
 
 # slice at k and join
 class Solution:
